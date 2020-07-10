@@ -35,5 +35,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 
 
-### Advanced Configuration
+## Configuration $ System Management
 
